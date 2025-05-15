@@ -1,0 +1,2 @@
+# ICT
+Creating trading Strategies
